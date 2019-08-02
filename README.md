@@ -1,1 +1,1 @@
-# cloud_detection_using_satellite_data
+# Cloud detection using satellite data
