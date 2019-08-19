@@ -35,7 +35,7 @@ To-do list:
 Project is: _in progress_
 
 It took a significant amount of time to understand the problem of cloud detection and find relevant datasets. This required me to go through a plethora of literature associated with the field of Remote sensing which is completely new to me. 
-Due to the novelty and complexity associated with the dataset, data samples also needed to be explored to have a richer understanding of the dataset. This is important as it would enable to find the required preprocessing and transforms. As the format of a data file is TIFF, it requires creating a custom dataset class to load the data. Once the dataloader is able to adequately load and transform the data, it wouldn't take long to train the model as predefined architectures would be used.
+Due to the novelty and complexity associated with the dataset, data samples also needed to be explored to have a richer understanding of the dataset. This is important as it would enable to find the required preprocessing and transforms. Due to the format of data files, it requires creating a custom dataset class to load the data. Once the dataloader is able to adequately load and transform the data, it wouldn't take long to train the model as predefined architectures would be used.
 
 
 ## Inspiration
