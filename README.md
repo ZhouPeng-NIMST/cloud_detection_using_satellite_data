@@ -2,8 +2,7 @@
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [Future Research and Development](#Future Research and Development)
-* [Screenshots](#screenshots)
+* [Future Research and Development](#Future-Research-and-Development)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
