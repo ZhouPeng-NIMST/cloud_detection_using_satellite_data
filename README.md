@@ -11,7 +11,7 @@
 ## Introduction
 This project aims to detect clouds using satellite data. It uses the dataset provided in the paper, [Clouds Classification from Sentinel-2 Imagery with Deep Residual Learning and Semantic Image Segmentation](https://www.mdpi.com/2072-4292/11/2/119), to train a deep learning model. There are a total of 100 samples. Each sample in this dataset consist of 10 cloud bands in a TIFF format and a manually labelled cloud mask. Since this is a small dataset, the model needs to be trained using several augmentations and overlapping images. Initially, the model would use only the RGB bands to train. Later, experiments can be done to test models trained on all the bands. 
 
-![Cloud Bands](https://github.com/ishgirwan/cloud_detection_using_satellite_data/blob/master/Images/Cloud%20bands.png)
+![Cloud Bands](https://github.com/ishgirwan/cloud_detection_using_satellite_data/blob/master/Images/Cloud%20Band.png)
 ![Cloud Mask](https://github.com/ishgirwan/cloud_detection_using_satellite_data/blob/master/Images/Cloud%20mask.png)
 
 ## Future Research and Development
